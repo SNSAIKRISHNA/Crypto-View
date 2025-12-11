@@ -1,16 +1,46 @@
-# React + Vite
+# Crypto-View
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, responsive web app that fetches cryptocurrency data from a public API and displays it in a clean dashboard. Built with Vite, vanilla JavaScript, HTML and CSS.
 
-Currently, two official plugins are available:
+**Authors:** SAIKRISHNA S.N, YASWANTHKUMAR V  
+**Contact:** saikrishnasn@outlook.com
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+> Add a live demo link here (GitHub Pages / Netlify / Vercel) if you deploy the project.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Fetches real-time cryptocurrency data from a public crypto API (e.g. CoinGecko / CoinCap — replace with the exact API used).
+- Displays essential information: name, symbol, current price, 24h change, market cap, and (optionally) small coin icons.
+- Responsive UI that works on desktop and mobile.
+- Easy-to-read cards/list view with sorting or search (if implemented).
+- Simple, beginner-friendly codebase — great for learning how to work with APIs and frontend tooling.
+
+---
+
+## Tech Stack
+
+- ⚡ Vite (development/build)
+- 🟨 JavaScript (ES6+)
+- 📄 HTML5
+- 🎨 CSS3
+- (Optional) Any small library you added (e.g. charting library or CSS util classes) — list them here.
+
+---
+
+## Getting started (Local development)
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/SNSAIKRISHNA/Crypto-View.git
+   cd Crypto-View
+
+## Contributors
+
+- SAIKRISHNA S.N
+- YASWANTHKUMAR V
