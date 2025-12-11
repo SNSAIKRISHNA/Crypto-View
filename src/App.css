@@ -21,44 +21,8 @@ body {
   font-size: larger;
 }
 
-.input-bar {
-  width: 50%;
-  padding: 10px 10px;
-  margin: 20px auto;
-  display: block;
-  border-radius: 5px;
-  border: none;
-  font-size: 16px;
-}
-
-.Moviecard {
-  display: inline-block;
-  background-color: #ffffff;
-  color: #000000;
-  border-radius: 10px;
-  justify-items: center;
-  max-width: 250px;
-  overflow: hidden;
-  padding: 10px 20px 10px 20px;
-  gap: 10px;
-  margin: 15px 10px 15px 10px;
-}
-
-.Moviecard h4,
-p {
-  margin: 10px 0 10px 0;
-  font-size: medium;
-  font-weight: bolder;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-}
-
-.Moviecard img {
-  width: 100%;
-  height: auto;
-  border-radius: 10px;
-}
-
-.movie-wrapper {
+.search-bar {
   text-align: center;
+  margin: 20px 0;
+  font-size: 24px;
 }
