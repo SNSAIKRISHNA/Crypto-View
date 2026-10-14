@@ -8,8 +8,13 @@
 [![Express](https://img.shields.io/badge/Express-4.21-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![WebSocket](https://img.shields.io/badge/WebSocket-Live_Streaming-FF6600?style=for-the-badge&logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://crypto-view-usvc.vercel.app/)
 
 > A modern, high-performance, full-stack cryptocurrency intelligence platform delivering live price tickers, interactive historical charts, market sentiment, and portfolio tracking — powered by native WebSockets and smart caching.
+
+## 🚀 Live Demo
+
+**[https://crypto-view-usvc.vercel.app/](https://crypto-view-usvc.vercel.app/)**
 
 ---
 
