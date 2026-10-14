@@ -25,3 +25,4 @@ dist-ssr
 
 #Environment Variables
 .env
+*real_time_crypto_dashboard_build_prompt
