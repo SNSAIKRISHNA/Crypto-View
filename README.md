@@ -347,6 +347,11 @@ Crypto-View/
 ├── package.json             # Root orchestrator (concurrent dev scripts)
 └── README.md
 ```
+<img width="1901" height="983" alt="image" src="https://github.com/user-attachments/assets/e9909ae2-c8e6-4e91-9426-af1c7b391627" />
+<img width="1899" height="990" alt="image" src="https://github.com/user-attachments/assets/59b67e31-6c55-4493-9d1e-bad30bb0e414" />
+<img width="1905" height="985" alt="image" src="https://github.com/user-attachments/assets/69334995-ac9e-4bdd-9a85-760d407f75d4" />
+<img width="1905" height="990" alt="image" src="https://github.com/user-attachments/assets/335b3dfb-c0d4-49a5-b6f1-f40d261a8b30" />
+<img width="1903" height="982" alt="image" src="https://github.com/user-attachments/assets/c16d0532-994a-44d0-9be2-47b9abbd2eb5" />
 
 ---
 
